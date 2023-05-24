@@ -1,0 +1,171 @@
+.about-us-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-aliceblue-100);
+  width: 1920px;
+  height: 100px;
+}
+.contact-us4 {
+  position: relative;
+  cursor: pointer;
+}
+.contact-us-container {
+  position: absolute;
+  top: 30px;
+  left: 1176px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.logo-icon4 {
+  position: absolute;
+  top: 11px;
+  left: 116px;
+  width: 89px;
+  height: 79px;
+}
+.features4 {
+  top: 33px;
+  left: 1082px;
+  width: 67px;
+  height: 35px;
+  cursor: pointer;
+}
+.about-us5,
+.features4,
+.home4 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.home4 {
+  top: 33px;
+  left: 1004px;
+  width: 44px;
+  height: 35px;
+  cursor: pointer;
+}
+.about-us5 {
+  top: 230px;
+  left: 457px;
+  font-size: var(--font-size-29xl);
+  width: 266px;
+  height: 110px;
+}
+.we-are-a {
+  margin: 0;
+}
+.we-are-a-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.we-are-a-container {
+  position: absolute;
+  top: 356px;
+  left: 460px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 900px;
+  height: 243px;
+}
+.scharan-kumar-211801410002 {
+  margin: 0;
+  font-weight: 500;
+}
+.group-members-scharan-container {
+  position: absolute;
+  top: 654px;
+  left: 457px;
+  font-size: var(--font-size-5xl);
+  display: flex;
+  align-items: center;
+  width: 479px;
+  height: 256px;
+}
+.about-us-item {
+  position: absolute;
+  top: 1073px;
+  left: 0;
+  background-color: var(--color-aliceblue-200);
+  width: 1400px;
+  height: 266px;
+}
+.all-rights-reserved2 {
+  position: absolute;
+  top: 1285px;
+  left: 980px;
+  font-size: var(--font-size-base);
+  line-height: 130%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 420px;
+  height: 28px;
+}
+.logo-icon5 {
+  position: absolute;
+  top: 1099px;
+  left: 958px;
+  width: 89px;
+  height: 79px;
+}
+.empowering-healthcare-professi3 {
+  position: absolute;
+  top: 1196px;
+  left: 962px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-sansation);
+  color: var(--color-gray-100);
+}
+.facebook-icon2,
+.instagram-icon2,
+.twitter-icon2,
+.whatsapp-icon2 {
+  position: absolute;
+  top: 1234px;
+  left: 958px;
+  border-radius: var(--br-381xl);
+  width: 40px;
+  height: 39px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.instagram-icon2,
+.twitter-icon2,
+.whatsapp-icon2 {
+  top: 1233px;
+  left: 1011px;
+  height: 40px;
+}
+.instagram-icon2,
+.whatsapp-icon2 {
+  left: 1064px;
+}
+.whatsapp-icon2 {
+  top: 1234px;
+  left: 1117px;
+}
+.copyrightlogo-1-icon1 {
+  position: absolute;
+  top: 1291px;
+  left: 960px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.about-us4 {
+  position: relative;
+  background-color: var(--color-lavender-100);
+  width: 100%;
+  height: 1339px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--headline-h5-title);
+}

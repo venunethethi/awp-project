@@ -1,0 +1,287 @@
+.data-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-aliceblue-100);
+  width: 1920px;
+  height: 100px;
+}
+.about-us2 {
+  position: relative;
+}
+.about-us-wrapper {
+  position: absolute;
+  top: 30px;
+  left: 1107px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+}
+.contact-us2 {
+  position: relative;
+  cursor: pointer;
+}
+.contact-us-wrapper,
+.features-wrapper,
+.home-wrapper {
+  position: absolute;
+  top: 30px;
+  left: 1306px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-sm);
+}
+.features-wrapper,
+.home-wrapper {
+  left: 1017px;
+}
+.features-wrapper {
+  left: 1215px;
+}
+.logo-icon2 {
+  position: absolute;
+  top: 11px;
+  left: 116px;
+  width: 89px;
+  height: 79px;
+}
+.data-child1,
+.data-child2,
+.data-child3,
+.data-inner,
+.data-item,
+.rectangle-iframe {
+  border: 0;
+  position: absolute;
+  top: 322px;
+  left: 347px;
+  background-color: var(--color-gainsboro-100);
+  width: 450px;
+  height: 260px;
+}
+.data-child1,
+.data-child2,
+.data-child3,
+.data-inner,
+.rectangle-iframe {
+  top: 830px;
+  left: 352px;
+}
+.data-child1,
+.data-child2,
+.data-child3,
+.rectangle-iframe {
+  top: 1399px;
+}
+.data-child1,
+.data-child2,
+.data-child3 {
+  left: 922px;
+}
+.data-child2,
+.data-child3 {
+  top: 830px;
+}
+.data-child3 {
+  top: 322px;
+  left: 906px;
+}
+.air-quality,
+.body-temperature,
+.heart-rate1,
+.humidity1,
+.room-temperature,
+.saline-level {
+  position: absolute;
+  top: 239px;
+  left: 347px;
+  font-size: var(--font-size-17xl);
+  display: flex;
+  align-items: center;
+  width: 381px;
+  height: 83px;
+}
+.air-quality,
+.heart-rate1,
+.humidity1,
+.room-temperature,
+.saline-level {
+  top: 721px;
+  left: 918px;
+}
+.air-quality,
+.heart-rate1,
+.humidity1,
+.saline-level {
+  left: 352px;
+  width: 220px;
+}
+.air-quality,
+.heart-rate1,
+.humidity1 {
+  top: 1203px;
+}
+.air-quality,
+.heart-rate1 {
+  left: 918px;
+}
+.air-quality {
+  top: 239px;
+  width: 219px;
+}
+.data-child4 {
+  position: absolute;
+  top: 1880px;
+  left: 0;
+  background-color: var(--color-aliceblue-200);
+  width: 1400px;
+  height: 266px;
+}
+.pages1 {
+  position: absolute;
+  top: 1947px;
+  left: 238px;
+  font-size: var(--headline-h5-title-size);
+  letter-spacing: -0.04em;
+  line-height: 110%;
+  color: var(--base-dark);
+  opacity: 0.5;
+}
+.home3 {
+  top: 1997px;
+  left: 239px;
+  width: 50px;
+  cursor: pointer;
+}
+.all-rights-reserved1,
+.documentation1,
+.home3 {
+  position: absolute;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  height: 28px;
+}
+.documentation1 {
+  top: 1997px;
+  left: 502px;
+  width: 134px;
+  cursor: pointer;
+}
+.all-rights-reserved1 {
+  top: 2090px;
+  left: 980px;
+  font-weight: 500;
+  width: 420px;
+}
+.about-us3,
+.features3 {
+  left: 239px;
+  line-height: 130%;
+  height: 28px;
+  cursor: pointer;
+}
+.features3 {
+  position: absolute;
+  top: 2025px;
+  display: flex;
+  align-items: center;
+  width: 73px;
+}
+.about-us3 {
+  top: 2053px;
+  width: 77px;
+}
+.about-us3,
+.contact-us3,
+.resources1 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.contact-us3 {
+  top: 2081px;
+  left: 239px;
+  line-height: 130%;
+  width: 95px;
+  height: 28px;
+  cursor: pointer;
+}
+.resources1 {
+  top: 1944px;
+  left: 499px;
+  font-size: var(--headline-h5-title-size);
+  letter-spacing: -0.04em;
+  line-height: 110%;
+  color: var(--base-dark);
+  width: 179px;
+  height: 32px;
+  opacity: 0.5;
+}
+.logo-icon3 {
+  position: absolute;
+  top: 1904px;
+  left: 958px;
+  width: 89px;
+  height: 79px;
+}
+.empowering-healthcare-professi2 {
+  position: absolute;
+  top: 2001px;
+  left: 962px;
+  font-family: var(--font-sansation);
+  color: var(--color-gray-100);
+}
+.facebook-icon1,
+.instagram-icon1,
+.twitter-icon1,
+.whatsapp-icon1 {
+  position: absolute;
+  top: 2039px;
+  left: 958px;
+  border-radius: var(--br-381xl);
+  width: 40px;
+  height: 39px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.instagram-icon1,
+.twitter-icon1,
+.whatsapp-icon1 {
+  top: 2038px;
+  left: 1011px;
+  height: 40px;
+}
+.instagram-icon1,
+.whatsapp-icon1 {
+  left: 1064px;
+}
+.whatsapp-icon1 {
+  left: 1117px;
+}
+.copyrightlogo-3-icon {
+  position: absolute;
+  top: 2096px;
+  left: 960px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.data {
+  position: relative;
+  background-color: var(--color-lavender-100);
+  width: 100%;
+  height: 2146px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--headline-h5-title);
+}

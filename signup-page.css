@@ -1,0 +1,332 @@
+.signup-page-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-aliceblue-100);
+  width: 1920px;
+  height: 100px;
+}
+.logo-icon11 {
+  position: absolute;
+  top: 11px;
+  left: 119px;
+  width: 89px;
+  height: 79px;
+}
+.about-us11,
+.contact-us12,
+.features11,
+.home10 {
+  position: absolute;
+  top: 33px;
+  left: 1107px;
+  font-size: var(--font-size-sm);
+  display: flex;
+  align-items: center;
+  width: 93px;
+  height: 35px;
+  cursor: pointer;
+}
+.about-us11,
+.contact-us12,
+.home10 {
+  left: 1214px;
+}
+.contact-us12,
+.home10 {
+  left: 1310px;
+}
+.home10 {
+  left: 1017px;
+}
+.signup-page-item {
+  position: absolute;
+  top: 257px;
+  left: 650px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-lightgray);
+  width: 415px;
+  height: 659px;
+}
+.signup {
+  position: relative;
+}
+.signup-wrapper {
+  position: absolute;
+  top: 275px;
+  left: 764px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 20px;
+}
+.user-name {
+  position: relative;
+  font-weight: 600;
+}
+.user-name-wrapper {
+  position: absolute;
+  top: 342px;
+  left: 660px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-lg);
+}
+.confirm-password-input,
+.email-input1,
+.password-input,
+.user-name-input {
+  border: 0;
+  background-color: var(--color-silver-100);
+  position: absolute;
+  top: 390px;
+  left: 673px;
+  border-radius: var(--br-3xs);
+  width: 370px;
+  height: 45px;
+}
+.confirm-password-input,
+.email-input1,
+.password-input {
+  top: 492px;
+}
+.confirm-password-input,
+.password-input {
+  top: 586px;
+}
+.confirm-password-input {
+  top: 685px;
+  left: 671px;
+}
+.confirm-password,
+.password {
+  position: absolute;
+  top: 552px;
+  left: 670px;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 99px;
+  height: 28px;
+}
+.confirm-password {
+  top: 651px;
+  left: 671px;
+  width: 170px;
+}
+.signup-button-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslateblue);
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 147px;
+  height: 45px;
+}
+.signup1 {
+  position: absolute;
+  top: 11px;
+  left: 44px;
+  display: flex;
+  align-items: center;
+  width: 73px;
+  height: 23px;
+}
+.signup-button {
+  position: absolute;
+  top: 776px;
+  left: 737px;
+  width: 147px;
+  height: 45px;
+  color: var(--color-white);
+}
+.email1,
+.have-an-account,
+.login {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.have-an-account {
+  top: 867px;
+  left: 681px;
+  font-weight: 500;
+  width: 161px;
+  height: 15px;
+}
+.email1,
+.login {
+  font-weight: 600;
+}
+.login {
+  top: 864px;
+  left: 841px;
+  color: var(--color-darkslateblue);
+  width: 46px;
+  height: 18px;
+  cursor: pointer;
+}
+.email1 {
+  top: 458px;
+  left: 671px;
+  font-size: var(--font-size-lg);
+  width: 97px;
+  height: 19px;
+}
+.signup-page-inner {
+  position: absolute;
+  top: 1073px;
+  left: 0;
+  background-color: var(--color-aliceblue-200);
+  width: 1920px;
+  height: 266px;
+}
+.pages4 {
+  position: absolute;
+  top: 1140px;
+  left: 238px;
+  font-size: var(--headline-h5-title-size);
+  letter-spacing: -0.04em;
+  line-height: 110%;
+  color: var(--base-dark);
+  opacity: 0.5;
+}
+.home11 {
+  top: 1190px;
+  left: 239px;
+  width: 50px;
+}
+.all-rights-reserved5,
+.documentation4,
+.home11 {
+  position: absolute;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  height: 28px;
+}
+.documentation4 {
+  top: 1190px;
+  left: 502px;
+  width: 134px;
+  cursor: pointer;
+}
+.all-rights-reserved5 {
+  top: 1274px;
+  left: 980px;
+  font-weight: 500;
+  width: 420px;
+}
+.about-us12,
+.features12 {
+  left: 239px;
+  line-height: 130%;
+  height: 28px;
+  cursor: pointer;
+}
+.features12 {
+  position: absolute;
+  top: 1218px;
+  display: flex;
+  align-items: center;
+  width: 73px;
+}
+.about-us12 {
+  top: 1246px;
+  width: 77px;
+}
+.about-us12,
+.contact-us13,
+.resources4 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.contact-us13 {
+  top: 1274px;
+  left: 239px;
+  line-height: 130%;
+  width: 95px;
+  height: 28px;
+  cursor: pointer;
+}
+.resources4 {
+  top: 1137px;
+  left: 499px;
+  font-size: var(--headline-h5-title-size);
+  letter-spacing: -0.04em;
+  line-height: 110%;
+  color: var(--base-dark);
+  width: 179px;
+  height: 32px;
+  opacity: 0.5;
+}
+.logo-icon12 {
+  position: absolute;
+  top: 1088px;
+  left: 958px;
+  width: 89px;
+  height: 79px;
+}
+.empowering-healthcare-professi6 {
+  position: absolute;
+  top: 1185px;
+  left: 962px;
+  font-family: var(--font-sansation);
+  color: var(--color-gray-100);
+}
+.facebook-icon6,
+.instagram-icon6,
+.twitter-icon6,
+.whatsapp-icon6 {
+  position: absolute;
+  top: 1223px;
+  left: 958px;
+  border-radius: var(--br-381xl);
+  width: 40px;
+  height: 39px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.instagram-icon6,
+.twitter-icon6,
+.whatsapp-icon6 {
+  top: 1222px;
+  left: 1011px;
+  height: 40px;
+}
+.instagram-icon6,
+.whatsapp-icon6 {
+  left: 1061px;
+}
+.whatsapp-icon6 {
+  left: 1114px;
+}
+.copyrightlogo-1-icon4 {
+  position: absolute;
+  top: 1280px;
+  left: 960px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.signup-page {
+  position: relative;
+  background-color: var(--color-lavender-100);
+  width: 100%;
+  height: 1339px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--headline-h5-title);
+}

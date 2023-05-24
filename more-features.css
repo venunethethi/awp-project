@@ -1,0 +1,224 @@
+.more-features-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-aliceblue-100);
+  width: 1920px;
+  height: 100px;
+}
+.logo-icon6 {
+  position: absolute;
+  top: 11px;
+  left: 116px;
+  width: 89px;
+  height: 79px;
+}
+.about-us-container {
+  position: absolute;
+  top: 30px;
+  left: 1084px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+}
+.contact-us5 {
+  position: relative;
+  cursor: pointer;
+}
+.contact-us-frame,
+.features-container,
+.home-container {
+  position: absolute;
+  top: 30px;
+  left: 1300px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-sm);
+}
+.features-container,
+.home-container {
+  left: 995px;
+}
+.features-container {
+  left: 1192px;
+}
+.heart-rate-monitoring {
+  position: relative;
+}
+.heart-rate-monitoring-wrapper,
+.more-features-inner {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.more-features-inner {
+  position: absolute;
+  top: 310px;
+  left: 259px;
+  width: 583px;
+  height: 100px;
+  flex-direction: column;
+  padding: 0 var(--padding-3xs);
+  box-sizing: border-box;
+  justify-content: center;
+}
+.pulse-sensors-can {
+  margin: 0;
+}
+.pulse-sensors-can-container,
+.pulse-sensors-can-container1 {
+  position: absolute;
+  top: 919px;
+  left: -1378px;
+  font-size: var(--headline-h5-title-size);
+  line-height: 150%;
+  font-family: var(--font-sansation);
+  display: inline-block;
+  width: 1191px;
+  height: 617px;
+}
+.pulse-sensors-can-container1 {
+  top: 437px;
+  left: 276px;
+  font-size: var(--font-size-11xl);
+  width: 1085px;
+  height: 427px;
+}
+.electro-cardiogram-wrapper {
+  position: absolute;
+  top: 919px;
+  left: 269px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) 83px var(--padding-3xs) var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ecg-is-commonly-container {
+  position: absolute;
+  top: 1026px;
+  left: 276px;
+  font-size: var(--font-size-11xl);
+  line-height: 150%;
+  font-family: var(--font-sansation);
+  display: inline-block;
+  width: 1067px;
+  height: 617px;
+}
+.body-room-temperature-wrapper {
+  position: absolute;
+  top: 1520px;
+  left: 279px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) 98px var(--padding-3xs) var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.wireless-sensors-equipped-container {
+  position: absolute;
+  top: 1620px;
+  left: 288px;
+  font-size: var(--font-size-11xl);
+  line-height: 150%;
+  font-family: var(--font-sansation);
+  display: inline-block;
+  width: 1067px;
+  height: 465px;
+}
+.humidity-percentage-wrapper {
+  position: absolute;
+  top: 2092px;
+  left: 279px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) 126px var(--padding-3xs) var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.wireless-sensors-equipped-container1 {
+  position: absolute;
+  top: 2192px;
+  left: 288px;
+  font-size: var(--font-size-11xl);
+  line-height: 150%;
+  font-family: var(--font-sansation);
+  display: inline-block;
+  width: 1067px;
+  height: 445px;
+}
+.saline-levels-wrapper {
+  position: absolute;
+  top: 2671px;
+  left: 269px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) 105px var(--padding-3xs) var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.remote-saline-level-container {
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  width: 1090px;
+  flex-shrink: 0;
+}
+.remote-saline-level-monitoring-wrapper {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 1150px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-div {
+  position: absolute;
+  top: 2741px;
+  left: 279px;
+  width: 1170px;
+  height: 515px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-sansation);
+}
+.emergency-notifications1 {
+  position: absolute;
+  top: 3261px;
+  left: 279px;
+  display: flex;
+  align-items: center;
+  width: 601px;
+}
+.emergency-alert-notifications-container {
+  position: absolute;
+  top: 3341px;
+  left: 276px;
+  font-size: var(--font-size-11xl);
+  line-height: 150%;
+  font-family: var(--font-sansation);
+  display: inline-block;
+  width: 1067px;
+  height: 635px;
+}
+.more-features {
+  position: relative;
+  background-color: #dbe1ef;
+  width: 100%;
+  height: 4488px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--headline-h5-title);
+}

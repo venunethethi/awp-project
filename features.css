@@ -1,0 +1,518 @@
+.features-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-aliceblue-100);
+  width: 1920px;
+  height: 100px;
+}
+.logo-icon7 {
+  position: absolute;
+  top: 11px;
+  left: 116px;
+  width: 89px;
+  height: 79px;
+}
+.about-us7,
+.contact-us6 {
+  top: 33px;
+  font-size: var(--font-size-sm);
+  text-align: left;
+  width: 93px;
+  height: 35px;
+  cursor: pointer;
+}
+.about-us7 {
+  position: absolute;
+  left: 1210px;
+  display: flex;
+  align-items: center;
+}
+.contact-us6 {
+  left: 1307px;
+}
+.contact-us6,
+.features7,
+.home6,
+.where-world-class {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.home6 {
+  top: 33px;
+  left: 1120px;
+  font-size: var(--font-size-sm);
+  text-align: left;
+  width: 93px;
+  height: 35px;
+  cursor: pointer;
+}
+.features7,
+.where-world-class {
+  font-size: var(--font-size-29xl);
+}
+.features7 {
+  top: 208px;
+  left: 323px;
+  text-align: left;
+  width: 223px;
+  height: 110px;
+}
+.where-world-class {
+  top: 396px;
+  left: 335px;
+  font-weight: 600;
+  justify-content: center;
+  width: 1070px;
+  height: 144px;
+}
+.features-child1,
+.features-child2,
+.features-child3,
+.features-child4,
+.features-inner,
+.features-item {
+  position: absolute;
+  top: 649px;
+  left: 300px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray);
+  width: 345px;
+  height: 553px;
+}
+.features-child1,
+.features-child2,
+.features-child3,
+.features-child4,
+.features-inner {
+  top: 1388px;
+}
+.features-child1,
+.features-child2,
+.features-child3,
+.features-child4 {
+  top: 649px;
+  left: 669px;
+}
+.features-child2,
+.features-child3,
+.features-child4 {
+  top: 1390px;
+}
+.features-child3,
+.features-child4 {
+  top: 649px;
+  left: 1038px;
+}
+.features-child4 {
+  top: 1388px;
+}
+.features-child10,
+.features-child5,
+.features-child6,
+.features-child7,
+.features-child8,
+.features-child9 {
+  position: absolute;
+  top: 701px;
+  left: 373px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-silver-200);
+  width: 199px;
+  height: 193px;
+}
+.features-child10,
+.features-child6,
+.features-child7,
+.features-child8,
+.features-child9 {
+  left: 742px;
+}
+.features-child10,
+.features-child7,
+.features-child8,
+.features-child9 {
+  top: 1448px;
+  left: 373px;
+}
+.features-child10,
+.features-child8,
+.features-child9 {
+  top: 1454px;
+  left: 742px;
+}
+.features-child10,
+.features-child9 {
+  top: 1448px;
+  left: 1111px;
+}
+.features-child10 {
+  top: 701px;
+}
+.heart-2-11 {
+  position: absolute;
+  top: 720px;
+  left: 395px;
+  width: 155px;
+  height: 155px;
+  object-fit: cover;
+}
+.cardiogram-1-icon1,
+.humidity-1-icon1,
+.thermometer-1-icon1 {
+  position: absolute;
+  top: 724px;
+  left: 749px;
+  width: 185px;
+  height: 147px;
+  object-fit: cover;
+}
+.humidity-1-icon1,
+.thermometer-1-icon1 {
+  left: 1096px;
+  width: 151px;
+  height: 158px;
+}
+.humidity-1-icon1 {
+  top: 1464px;
+  left: 388px;
+  width: 158px;
+  height: 159px;
+}
+.emergency-contact-1-icon1,
+.intravenous-saline-drip-1-icon1 {
+  position: absolute;
+  top: 1477px;
+  left: 766px;
+  width: 152px;
+  height: 158px;
+  object-fit: cover;
+}
+.emergency-contact-1-icon1 {
+  top: 1472px;
+  left: 1091px;
+  width: 153px;
+  height: 156px;
+}
+.heart-rate2 {
+  margin: 0;
+}
+.heart-rate-monitoring-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.heart-rate-monitoring-container2,
+.humidity-percentage2 {
+  position: absolute;
+  top: 937px;
+  left: 323px;
+  display: flex;
+  align-items: center;
+  width: 297px;
+  height: 175px;
+}
+.humidity-percentage2 {
+  top: 1684px;
+}
+.view-all-features1 {
+  position: relative;
+}
+.features-inner1,
+.view-all-features-container {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.view-all-features-container {
+  flex: 1;
+}
+.features-inner1 {
+  position: absolute;
+  top: 2110px;
+  left: 701px;
+  width: 322px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.bodyroom-temperature1,
+.electro-cardiogram2,
+.emergency-notifications2,
+.saline-levels2 {
+  position: absolute;
+  top: 1686px;
+  left: 693px;
+  display: flex;
+  align-items: center;
+  width: 297px;
+  height: 175px;
+}
+.bodyroom-temperature1,
+.electro-cardiogram2,
+.emergency-notifications2 {
+  top: 1684px;
+  left: 1062px;
+}
+.bodyroom-temperature1,
+.electro-cardiogram2 {
+  top: 937px;
+  left: 693px;
+}
+.bodyroom-temperature1 {
+  left: 1062px;
+}
+.learn-more10,
+.learn-more11,
+.learn-more6,
+.learn-more7,
+.learn-more8,
+.learn-more9 {
+  position: absolute;
+  top: 1103px;
+  left: 403px;
+  font-size: var(--font-size-5xl);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 143px;
+  height: 45px;
+  cursor: pointer;
+}
+.learn-more10,
+.learn-more11,
+.learn-more7,
+.learn-more8,
+.learn-more9 {
+  top: 1829px;
+  left: 388px;
+}
+.learn-more10,
+.learn-more11,
+.learn-more8,
+.learn-more9 {
+  top: 1828px;
+  left: 770px;
+}
+.learn-more10,
+.learn-more11,
+.learn-more9 {
+  top: 1829px;
+  left: 1134px;
+}
+.learn-more10,
+.learn-more11 {
+  top: 1095px;
+  left: 775px;
+}
+.learn-more11 {
+  left: 1134px;
+}
+.features-child11 {
+  position: absolute;
+  top: 1153.67px;
+  left: 459.63px;
+  width: 16.75px;
+  height: 10.08px;
+}
+.features-child12,
+.features-child13,
+.features-child14 {
+  position: absolute;
+  top: 1884.67px;
+  left: 451.63px;
+  width: 16.75px;
+  height: 10.08px;
+}
+.features-child13,
+.features-child14 {
+  top: 1891.67px;
+  left: 825.63px;
+}
+.features-child14 {
+  top: 2197.67px;
+  left: 851.63px;
+}
+.features-child15,
+.features-child16,
+.features-child17 {
+  position: absolute;
+  top: 1884.67px;
+  left: 1199.63px;
+  width: 16.75px;
+  height: 10.08px;
+}
+.features-child16,
+.features-child17 {
+  top: 1144.67px;
+  left: 833.63px;
+}
+.features-child17 {
+  top: 1149.67px;
+  left: 1197.63px;
+}
+.features-child18 {
+  position: absolute;
+  top: 2471px;
+  left: 0;
+  background-color: var(--color-aliceblue-200);
+  width: 1920px;
+  height: 266px;
+}
+.documentation2,
+.home7,
+.pages2 {
+  position: absolute;
+  text-align: left;
+}
+.pages2 {
+  top: 2538px;
+  left: 238px;
+  letter-spacing: -0.04em;
+  line-height: 110%;
+  color: var(--base-dark);
+  opacity: 0.5;
+}
+.documentation2,
+.home7 {
+  top: 2588px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.home7 {
+  left: 239px;
+  font-size: var(--font-size-base);
+  line-height: 130%;
+  width: 50px;
+  height: 28px;
+}
+.documentation2 {
+  left: 502px;
+  width: 134px;
+}
+.about-us8,
+.all-rights-reserved3,
+.documentation2,
+.features8 {
+  font-size: var(--font-size-base);
+  line-height: 130%;
+  height: 28px;
+}
+.all-rights-reserved3 {
+  position: absolute;
+  top: 2667px;
+  left: 982px;
+  font-weight: 500;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 420px;
+}
+.about-us8,
+.features8 {
+  left: 239px;
+  cursor: pointer;
+}
+.features8 {
+  position: absolute;
+  top: 2616px;
+  display: flex;
+  text-align: left;
+  align-items: center;
+  width: 73px;
+}
+.about-us8 {
+  top: 2644px;
+  width: 77px;
+}
+.about-us8,
+.contact-us7,
+.resources2 {
+  position: absolute;
+  display: flex;
+  text-align: left;
+  align-items: center;
+}
+.contact-us7 {
+  top: 2672px;
+  left: 239px;
+  font-size: var(--font-size-base);
+  line-height: 130%;
+  width: 95px;
+  height: 28px;
+  cursor: pointer;
+}
+.resources2 {
+  top: 2535px;
+  left: 499px;
+  letter-spacing: -0.04em;
+  line-height: 110%;
+  color: var(--base-dark);
+  width: 179px;
+  height: 32px;
+  opacity: 0.5;
+}
+.logo-icon8 {
+  position: absolute;
+  top: 2481px;
+  left: 960px;
+  width: 89px;
+  height: 79px;
+}
+.empowering-healthcare-professi4 {
+  position: absolute;
+  top: 2578px;
+  left: 964px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-sansation);
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.facebook-icon3,
+.instagram-icon3,
+.twitter-icon3,
+.whatsapp-icon3 {
+  position: absolute;
+  top: 2616px;
+  left: 960px;
+  border-radius: var(--br-381xl);
+  width: 40px;
+  height: 39px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.instagram-icon3,
+.twitter-icon3,
+.whatsapp-icon3 {
+  top: 2615px;
+  left: 1013px;
+  height: 40px;
+}
+.instagram-icon3,
+.whatsapp-icon3 {
+  left: 1066px;
+}
+.whatsapp-icon3 {
+  left: 1119px;
+}
+.copyrightlogo-1-icon2 {
+  position: absolute;
+  top: 2673px;
+  left: 962px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.features6 {
+  position: relative;
+  background-color: var(--color-lavender-100);
+  width: 100%;
+  height: 2724px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--headline-h5-title-size);
+  color: var(--color-black);
+  font-family: var(--headline-h5-title);
+}

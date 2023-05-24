@@ -1,0 +1,368 @@
+.contact-us-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-aliceblue-100);
+  width: 1920px;
+  height: 100px;
+}
+.logo-icon9 {
+  position: absolute;
+  top: 11px;
+  left: 116px;
+  width: 89px;
+  height: 79px;
+}
+.about-us9,
+.features9 {
+  top: 33px;
+  font-size: var(--font-size-sm);
+  width: 93px;
+  height: 35px;
+  cursor: pointer;
+}
+.features9 {
+  position: absolute;
+  left: 1217px;
+  display: flex;
+  align-items: center;
+}
+.about-us9 {
+  left: 1323px;
+}
+.about-us9,
+.contact-us9,
+.home8 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.home8 {
+  top: 33px;
+  left: 1127px;
+  font-size: var(--font-size-sm);
+  width: 93px;
+  height: 35px;
+  cursor: pointer;
+}
+.contact-us9 {
+  top: 180px;
+  left: 422px;
+  font-size: var(--font-size-29xl);
+  width: 326px;
+  height: 110px;
+}
+.contact-us-item {
+  position: absolute;
+  top: 307px;
+  left: 423px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightgray);
+  width: 839px;
+  height: 564px;
+}
+.div,
+.div1,
+.follow-us-on,
+.mobile {
+  position: absolute;
+  top: 511px;
+  left: 971px;
+  display: flex;
+  align-items: center;
+  width: 143px;
+  height: 26px;
+}
+.div,
+.div1,
+.follow-us-on {
+  top: 619px;
+}
+.div,
+.div1 {
+  top: 546px;
+  font-weight: 600;
+}
+.div1 {
+  top: 584px;
+  width: 154px;
+}
+.send-button-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslateblue);
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 147px;
+  height: 45px;
+}
+.send {
+  position: absolute;
+  top: 11px;
+  left: 52px;
+  display: flex;
+  align-items: center;
+  width: 45px;
+  height: 23px;
+}
+.send-button {
+  position: absolute;
+  top: 805px;
+  left: 561px;
+  width: 147px;
+  height: 45px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.email,
+.write-to-us {
+  position: absolute;
+  top: 548px;
+  left: 466px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 101px;
+  height: 26px;
+}
+.email {
+  top: 440px;
+  left: 467px;
+  width: 60px;
+}
+.email-input,
+.name-input,
+.write-to-us-input {
+  border: 0;
+  background-color: var(--color-silver-100);
+  position: absolute;
+  top: 371px;
+  left: 467px;
+  border-radius: var(--br-3xs);
+  width: 418px;
+  height: 56px;
+}
+.email-input,
+.write-to-us-input {
+  top: 479px;
+  left: 466px;
+}
+.write-to-us-input {
+  top: 577px;
+  height: 213px;
+}
+.contact-info,
+.name,
+.supporttrackrio {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  height: 26px;
+}
+.name {
+  top: 345px;
+  left: 466px;
+  font-weight: 600;
+  width: 60px;
+}
+.contact-info,
+.supporttrackrio {
+  top: 420px;
+  left: 971px;
+  width: 143px;
+}
+.supporttrackrio {
+  top: 458px;
+  font-weight: 600;
+  width: 425px;
+  height: 25px;
+}
+.facebook-icon4,
+.instagram-icon4,
+.twitter-icon4,
+.whatsapp-icon4 {
+  position: absolute;
+  top: 658px;
+  left: 971px;
+  border-radius: var(--br-381xl);
+  width: 40px;
+  height: 39px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.instagram-icon4,
+.twitter-icon4,
+.whatsapp-icon4 {
+  top: 657px;
+  left: 1024px;
+  height: 40px;
+}
+.instagram-icon4,
+.whatsapp-icon4 {
+  left: 1073px;
+}
+.whatsapp-icon4 {
+  top: 656px;
+  left: 1125px;
+}
+.contact-us-inner {
+  position: absolute;
+  top: 1073px;
+  left: 0;
+  background-color: var(--color-aliceblue-200);
+  width: 1920px;
+  height: 266px;
+}
+.pages3 {
+  position: absolute;
+  top: 1140px;
+  left: 238px;
+  font-size: var(--headline-h5-title-size);
+  letter-spacing: -0.04em;
+  line-height: 110%;
+  color: var(--base-dark);
+  opacity: 0.5;
+}
+.documentation3,
+.home9 {
+  position: absolute;
+  top: 1190px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.home9 {
+  left: 239px;
+  font-size: var(--font-size-base);
+  line-height: 130%;
+  width: 50px;
+  height: 28px;
+}
+.documentation3 {
+  left: 502px;
+  width: 134px;
+}
+.about-us10,
+.all-rights-reserved4,
+.documentation3,
+.features10 {
+  font-size: var(--font-size-base);
+  line-height: 130%;
+  height: 28px;
+}
+.all-rights-reserved4 {
+  position: absolute;
+  top: 1283px;
+  left: 982px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 420px;
+}
+.about-us10,
+.features10 {
+  left: 239px;
+  cursor: pointer;
+}
+.features10 {
+  position: absolute;
+  top: 1218px;
+  display: flex;
+  align-items: center;
+  width: 73px;
+}
+.about-us10 {
+  top: 1246px;
+  width: 77px;
+}
+.about-us10,
+.contact-us11,
+.resources3 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.contact-us11 {
+  top: 1274px;
+  left: 239px;
+  font-size: var(--font-size-base);
+  line-height: 130%;
+  width: 95px;
+  height: 28px;
+  cursor: pointer;
+}
+.resources3 {
+  top: 1137px;
+  left: 499px;
+  font-size: var(--headline-h5-title-size);
+  letter-spacing: -0.04em;
+  line-height: 110%;
+  color: var(--base-dark);
+  width: 179px;
+  height: 32px;
+  opacity: 0.5;
+}
+.logo-icon10 {
+  position: absolute;
+  top: 1097px;
+  left: 960px;
+  width: 89px;
+  height: 79px;
+}
+.empowering-healthcare-professi5 {
+  position: absolute;
+  top: 1194px;
+  left: 964px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-sansation);
+  color: var(--color-gray-100);
+}
+.facebook-icon5,
+.instagram-icon5,
+.twitter-icon5,
+.whatsapp-icon5 {
+  position: absolute;
+  top: 1232px;
+  left: 960px;
+  border-radius: var(--br-381xl);
+  width: 40px;
+  height: 39px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.instagram-icon5,
+.twitter-icon5,
+.whatsapp-icon5 {
+  top: 1231px;
+  left: 1013px;
+  height: 40px;
+}
+.instagram-icon5,
+.whatsapp-icon5 {
+  left: 1063px;
+}
+.whatsapp-icon5 {
+  left: 1116px;
+}
+.copyrightlogo-1-icon3 {
+  position: absolute;
+  top: 1289px;
+  left: 962px;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.contact-us8 {
+  position: relative;
+  background-color: var(--color-lavender-100);
+  width: 100%;
+  height: 1339px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--headline-h5-title);
+}
